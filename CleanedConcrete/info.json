@@ -1,6 +1,6 @@
 {
     "name": "CleanedConcrete",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "title": "Cleaned Concrete",
     "author": "JusticeDroid",
     "description":"Removes all ground decoration when placing stone path, concrete or refined concrete; supports modded tiles",
